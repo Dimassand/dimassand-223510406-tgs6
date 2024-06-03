@@ -1,0 +1,19 @@
+{
+    "articles": [
+      {
+        "title": "Yamaha",
+        "content": "Nama barang",
+        "id": "0351"
+      },
+      {
+        "id": "5445",
+        "title": "Honda",
+        "content": "Nama barang"
+      },
+      {
+        "id": "3223",
+        "title": "Kawasaki",
+        "content": "Nama barang"
+      }
+    ]
+  }
